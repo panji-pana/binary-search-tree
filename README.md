@@ -1,4 +1,4 @@
-# tree-methods
+# binary-search-tree
 
 This is a python recreation of a Binary Search Tree (BST) with every method needed for OCR A-level Computer Science. </br>
 It includes the methods of: </br>
